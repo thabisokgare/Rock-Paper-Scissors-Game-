@@ -52,7 +52,7 @@ function showResults(userOption) {
 
 function resetGame() {
 
-    // Reset scores
+    // Reset scores 
     playerScore = 0;
     computerScore = 0;
 
